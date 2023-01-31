@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo&family=Roboto+Condensed&display=swap');
+
+body{
+	font-family: 'Archivo', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	background-color: lemonchiffon;
+	background-repeat:no-repeat ;
+	background-size: cover;
+	color: darkgrey;
+}
+
+
+h1{
+	font-family: 'Roboto Condensed', sans-serif;
+	color: salmon;
+	font-size:35px;
+}
+img{
+	width: 250px;
+	border-radius: 50%;
+}
+
+h2{ 
+	font-family: 'Archivo', sans-serif;
+	color:lightpink;
+	font-size:25px;
+ }
+
+#Presentation{
+	width: 1000px;
+	height: 500px;
+}
+
+#Travels {
+	width: 1000px;
+	height: 300px;
+}
+	
+
+#Languages {
+	width: 1000px;
+	height: 250px;
+}
+
+#SocialMedia {
+	width: 1000px;
+	height: 250px;
+}
+
+.card{
+	background-color: white;
+	border: 3px solid darkgrey;
+	border-radius: 50px;
+	margin: 70px auto;
+	padding: 10px 30px;
+	box-shadow: 50px 20px 50px lightgrey;
+	opacity: 0.9;
+}
+
+#email{
+	width: 100px;
+}
+
+#Telephone {
+	width: 100px;
+}
+
+#Linkedin {
+	width: 100px;
+}
+
+ul{
+	list-style: none
+}
+
+ol{ 
+list-style:none; 
+}
+
+button{
+    background-color: floralwhite;
+    opacity: 0.9;
+	border: 2px solid darkgrey;
+	border-radius: 20px;
+	color: darkgrey ;
+	width: 180px;
+	height: 120px;
+	font-size: 20px;
+	font-style: bold;
+}
+
